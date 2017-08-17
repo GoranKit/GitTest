@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("B teste");
         System.out.println("A one");
         System.out.println("B two");
+        System.out.println("A bug fix");
     }
 }
