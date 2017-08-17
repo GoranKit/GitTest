@@ -7,6 +7,7 @@ public class HelloGit {
 
         System.out.println("Hello Git!!!");
         System.out.println("B teste");
+        System.out.println("A one");
         System.out.println("B two");
     }
 }
