@@ -11,5 +11,6 @@ public class HelloGit {
         System.out.println("B two");
         System.out.println("A bug fix");
         System.out.println("edit branch of  bug fix");
+        System.out.println("edit branch of  bug fix");
     }
 }
